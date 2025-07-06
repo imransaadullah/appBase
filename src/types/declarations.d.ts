@@ -1,0 +1,10 @@
+declare module 'expo-secure-store';
+declare module 'expo-updates';
+declare module 'expo-local-authentication';
+declare module 'expo-crypto';
+declare module 'react-native-keychain';
+declare module '@sentry/react-native';
+declare module 'expo-linking';
+declare module 'lottie-react-native';
+declare module 'react-native-reanimated';
+declare module 'react-native-gesture-handler'; 
